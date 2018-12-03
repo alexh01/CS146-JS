@@ -51,5 +51,4 @@ var checkBox = document.getElementById("checkbox");
 var mode = "logIn";
 var attempts = 0;
 window.onload = () => {
-window.localStorage.setItem('myCat', 'Tom');
 };

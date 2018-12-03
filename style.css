@@ -152,6 +152,7 @@ ol li{
 		display: flex;
 		text-align: center;
 		}
+		}
 @media screen and (min-width:999px)
 {
 	.mainImage .detaiiImage {
